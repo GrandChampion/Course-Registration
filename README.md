@@ -3,4 +3,4 @@
 
 
 ## registration starting time
-![Server clock](https://time.navyism.com/?host=ssc.adm.ubc.ca)
+[Server clock](https://time.navyism.com/?host=ssc.adm.ubc.ca)
