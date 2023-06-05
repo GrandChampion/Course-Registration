@@ -1,6 +1,6 @@
 # 2023/2024 Registration 계획
 ## [SSC 링크](https://ssc.adm.ubc.ca)
-## [Register page 링크](https://courses.students.ubc.ca/cs/courseschedule)
+## [Register page 링크](https://courses.students.ubc.ca)
 ## Registration starting time
 * ### [Server clock](https://time.navyism.com/?host=ssc.adm.ubc.ca)
 * ### 캐나다 시간: 6월 15일 목요일 오전 10:30
@@ -47,7 +47,9 @@
 * CPSC 447: javascript (in depth language concept), 3 midterms summary, video summary, d3.js
 * CPSC 418: Erlang (In depth language concept), textbook summary
 
+---
 ## **다음주 금요일 까지 할것**
 * Programmiz: CC, javascript, Python3
 * Lab 3,4
 * Leetcode 75 중에서 CC, JS, python 중에서 언어 선택해서 하루 1문제 풀기
+---
