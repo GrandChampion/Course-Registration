@@ -28,7 +28,7 @@
     * CPSC 447과 겹칩니다.
 * CPSC 418
     * T1, T2 모두 열립니다.
-    * 코딩 과제량이 엄청 많습니다.(https://github.com/superbstreak/CPSC_418_Parallel)
+    * coding assignment량이 엄청 많습니다.(https://github.com/superbstreak/CPSC_418_Parallel)
 
 ## 희망 트리
 ### 트리1
