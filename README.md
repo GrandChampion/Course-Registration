@@ -51,6 +51,7 @@
 ---
 ## **다음주 금요일 까지 할것**
 * Programmiz: [CC](https://www.programiz.com/cpp-programming), [javascript](https://www.programiz.com/javascript), [Python3](https://www.programiz.com/python-programming)
-* Lab 3,4
+* Lab 4
 * Leetcode 75 중에서 CC, JS, python 중에서 언어 선택해서 하루 1문제 풀기
+* Erlang 개념
 ---
