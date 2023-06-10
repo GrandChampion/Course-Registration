@@ -49,9 +49,4 @@
 * CPSC 418: Erlang (In depth language concept),C, textbook summary
 
 ---
-## **다음주 금요일 까지 할것**
-* Programmiz: [CC](https://www.programiz.com/cpp-programming), [javascript](https://www.programiz.com/javascript), [Python3](https://www.programiz.com/python-programming), [C](https://www.programiz.com/c-programming)
-* Lab 4
-* Leetcode 75 중에서 CC, JS, python, C 중에서 언어 선택해서 하루 1문제 풀기
-* Erlang 개념
----
+
