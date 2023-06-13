@@ -3,8 +3,8 @@
 ## [Register page 링크](https://courses.students.ubc.ca)
 ## Registration starting time
 * ### [Server clock](https://time.navyism.com/?host=ssc.adm.ubc.ca)
-* ### 캐나다 시간: 6월 15일 목요일 오전 10:30
-* ### 한국 시간: 6월 16일 금요일 오전 2:30
+* ### [캐나다 시간: 6월 15일 목요일 오전 10:30](https://www.timeanddate.com/countdown/wfh2?iso=20230615T1030&p0=256&msg=start+date&font=cursive&csz=1#)
+* ### [한국 시간: 6월 16일 금요일 오전 2:30](https://www.timeanddate.com/countdown/icehockey?iso=20230616T0230&p0=235&msg=Start&font=slab&csz=1)
 
 ## Course
 ![시간표](./%EC%8B%9C%EA%B0%84%ED%91%9C.png)
@@ -32,13 +32,13 @@
 
 ## 희망 트리
 ### 트리1
+* CPSC 418
 * CPSC 427
-* CPSC 425
 * CPSC 447
 
 ### 트리2
+* CPSC 418
 * CPSC 427
-* CPSC 404
 * CPSC 425
 
 ## Preparation when selected
