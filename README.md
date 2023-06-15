@@ -8,6 +8,7 @@
 * CPSC 447
 
 # Preparation
+* Programming language: C+CC, JavaScript, Erlang, Python3
 ## CPSC 418
 * Erlang
 * C
